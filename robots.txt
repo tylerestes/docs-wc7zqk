@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-ntqnva.ajaib887bpkb.cfd/sitemap.xml
